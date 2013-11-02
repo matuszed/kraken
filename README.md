@@ -1,0 +1,4 @@
+kraken
+======
+
+Kraken Trading Class
